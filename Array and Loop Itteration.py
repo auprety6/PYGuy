@@ -8,7 +8,7 @@ for i in numbers:
         cnt = cnt + 1
 
 
-# will provide the following output, note the block comment not actual data from the algorithim above:
+# will provide the following output, note the block comment not actual data from the algorithim above but compiled code:
 
 '''
 #PS C:\Users\oakto\.vscode\extensions> & C:/Users/oakto/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/oakto/OneDrive/Documents/PyGuy/Array and Loop Itteration.py"
