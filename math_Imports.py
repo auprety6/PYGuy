@@ -17,26 +17,11 @@ def plot_loglog():
     plt.show()
 
 
-# R-3.2
-# n0 = 16
 
-# R-3.3
-# n0 = 20
-
-# R-3.4
-# Constant Function
-
-# R-3.5
-# 两边取对数，得到新的x轴，y轴
-
-# R-3.6
-# n(n+1)
-
-# R-3.8
 # Constant < linear < log * linear < exponential
 
 
-# R-3.23 -> R-3.26
+
 def get_time_complexity_1(n, func):
     op_nums = []
     for i in range(1, n):
@@ -126,13 +111,9 @@ def get_time_complexity_2(n=100):
     plt.show()
 
 
-# R-3.32
-# O(n^2)
 
-# R-3.33
 # By definition, O(nlogn) may have larger constant factor than O(n^2)
 
-# R-3.34
 # O(logn)
 
 
